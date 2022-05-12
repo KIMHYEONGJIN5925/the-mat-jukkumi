@@ -1,0 +1,24 @@
+{
+  "name": "the-mat-jukkumi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KIMHYEONGJIN5925/the-mat-jukkumi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KIMHYEONGJIN5925/the-mat-jukkumi/issues"
+  },
+  "homepage": "https://github.com/KIMHYEONGJIN5925/the-mat-jukkumi#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {},
+  "description": ""
+}
